@@ -1,0 +1,10 @@
+HScope.ico
+HScopeDir.spec
+HScopeFile.spec
+Lib/
+Scripts/
+__pycache__/
+build/
+pyvenv.cfg
+share/
+utils/__pycache__/
