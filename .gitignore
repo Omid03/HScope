@@ -8,3 +8,4 @@ build/
 pyvenv.cfg
 share/
 utils/__pycache__/
+dist/
