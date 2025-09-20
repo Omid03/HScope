@@ -455,7 +455,7 @@ Item {
                     Loader { sourceComponent: coloredIcon; onLoaded: item.source = "images/github.svg" }
                     Text { text: "GitHub"; color: "#2dbcd6"; font.family: "Microsoft Uighur"; font.pointSize: 16; verticalAlignment: Text.AlignVCenter; elide: Text.ElideRight }
                 }
-                onClicked: { /* TODO: Make an GitHub Repo*/ }
+                onClicked: {Qt.openUrlExternally("https://github.com/Omid03/HScope")}
             }
 
             ToolButton {

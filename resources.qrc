@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/App.qml</file>
+        <file>ui/BrowsePage.qml</file>
+        <file>ui/Calc.qml</file>
+        <file>ui/CustomDialog.qml</file>
+        <file>ui/Main.qml</file>
+        
+        <file>ui/images/arrow-left.svg</file>
+        <file>ui/images/csv.svg</file>
+        <file>ui/images/file-json.svg</file>
+        <file>ui/images/github.svg</file>
+        <file>ui/images/house.svg</file>
+        <file>ui/images/HScope.svg</file>
+        <file>ui/images/log-out.svg</file>
+        <file>ui/images/mat.svg</file>
+        <file>ui/images/maximize.svg</file>
+        <file>ui/images/menu.svg</file>
+        <file>ui/images/minimize.svg</file>
+        <file>ui/images/minus.svg</file>
+        <file>ui/images/pickaxe.svg</file>
+        <file>ui/images/run.svg</file>
+        <file>ui/images/save.svg</file>
+        <file>ui/images/x.svg</file>
+
+    </qresource>
+</RCC>
