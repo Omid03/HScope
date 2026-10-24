@@ -88,7 +88,7 @@ Run the application:
 ```
 (Note: The project also supports packaging into a standalone executable installer via tools such as PyInstaller or NSIS.)
 
-## 🤝 Roadmap & Contributing
+## 🤝 Roadmap & Contributing (Call for Collaboration)
 
 HScope is an open-source initiative, and contributions from developers, researchers, and EDA (Electronic Design Automation) enthusiasts are warmly welcomed!
 Future Development Plans & Roadmap
