@@ -1,53 +1,6 @@
 
 <style>
-.h2_Box {
-    direction: ltr ;
-    text-align: right ;
-    font-family: 'Microsoft Uighur', 'Times New Roman', 'Cambria Math' ;
-    font-size: 24px ;
-    font-weight: bold ;
-    text-justify: inter-word ;
-}
-.h3_Box {
-    direction: ltr ;
-    text-align: right ;
-    font-family: 'Microsoft Uighur', 'Times New Roman', 'Cambria Math' ;
-    font-size: 22px ;
-    text-justify: inter-word ;
-}
-.text_Box {
-    text-justify: inter-word ;
-}
-.text_Box p{
-    font-size: 20px ;
-    font-family: 'Microsoft Uighur', 'Times New Roman' ;
-    direction: ltr ;
-    text-align: right ;
-}
-.text_Box ul{
-    font-size: 20px ;
-    font-family: 'Microsoft Uighur', 'Times New Roman' ;
-    direction: ltr ;
-    text-align: right ;
-}
-.text_Box ol{
-    font-size: 20px ;
-    font-family: 'Microsoft Uighur', 'Times New Roman' ;
-    direction: ltr ;
-    text-align: right ;
-}
-.text_Box .katex{
-    font-size: 18px ;
-    direction: ltr ;
-    unicode-bidi: isolate ;
-    font-family: 'Cambria Math' 
-}
-.text_Box code{
-    font-size: 18px ;
-    direction: ltr ;
-    text-align: left ;
-    font-family: 'Consolas' 
-}
+
 </style>
 
 <p align="left">
