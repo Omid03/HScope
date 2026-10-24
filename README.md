@@ -19,7 +19,7 @@ Download Links
 * [Key Features](#-key-features)
 * [Project Architecture](#%EF%B8%8F-project-architecture)
 * [Getting Started](#%EF%B8%8F-getting-started)
-* [Roadmap & Contributing (Call for Collaboration)](#%EF%B8%8F-roadmap--contributing-call-for-collaboration)
+* [Roadmap & Contributing (Call for Collaboration)](#%EF%B8%8F-roadmap-&-contributing-call-for-collaboration)
 * [Acknowledgments & Credits](#-acknowledgments--credits)
 
 ---
