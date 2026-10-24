@@ -86,25 +86,26 @@ Run the application:
     python main.py
 ```
 (Note: The project also supports packaging into a standalone executable installer via tools such as PyInstaller or NSIS.)
-🤝 Roadmap & Contributing (Call for Collaboration)
+
+## 🤝 Roadmap & Contributing (Call for Collaboration)
 
 HScope is an open-source initiative, and contributions from developers, researchers, and EDA (Electronic Design Automation) enthusiasts are warmly welcomed!
 Future Development Plans & Roadmap
 
-    Migration from Python to C/C++: Porting the core backend and application architecture from Python to C/C++ to achieve higher execution speed, lower memory overhead on large simulation files, and native standalone performance.
+- Migration from Python to C/C++: Porting the core backend and application architecture from Python to C/C++ to achieve higher execution speed, lower memory overhead on large simulation files, and native standalone performance.
 
-    Extended Mathematical & Algebraic Operations: Expanding the built-in calculator (Calc.qml and _calcTools.py) to support advanced mathematical, algebraic, differential, and statistical functions.
+- Extended Mathematical & Algebraic Operations: Expanding the built-in calculator (Calc.qml and _calcTools.py) to support advanced mathematical, algebraic, differential, and statistical functions.
 
-    Support for Multiple HSPICE Output Standards: Expanding the extraction engine (_extractTools.py) to support a wider variety of HSPICE output formats and versions (currently, only the default output standard of HSPICE 2019 is implemented).
+- Support for Multiple HSPICE Output Standards: Expanding the extraction engine (_extractTools.py) to support a wider variety of HSPICE output formats and versions (currently, only the default output standard of HSPICE 2019 is implemented).
 
 How to Contribute & Request Full Project Code
 
 If you are interested in collaborating, extending these features, or continuing the development of HScope, please reach out via email to receive the complete source code and project documentation:
 
-    Contact Email: omdgzade1380@gmail.com
+- Contact Email: omdgzade1380@gmail.com
 
-    GitHub Repository: https://github.com/Omid03/HScope
+- GitHub Repository: https://github.com/Omid03/HScope
 
 💖 Acknowledgments & Credits
 
-    HSPICE Data Extraction Engine: The HSPICE file extraction module (utils/_extractTools.py) was developed with inspiration and assistance from the open-source HMC-ACE/hspiceParser repository. Specifically, this implementation utilizes the parser standard corresponding to the default output format of HSPICE 2019.
+~~HSPICE Data Extraction Engine: The HSPICE file extraction module (utils/_extractTools.py) was developed with inspiration and assistance from the open-source HMC-ACE/hspiceParser repository. Specifically, this implementation utilizes the parser standard corresponding to the default output format of HSPICE 2019.~~
