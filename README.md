@@ -1,4 +1,6 @@
-![HScope Icon](ui/images/HScope-Icon.png)
+<p align="left">
+  <img src="ui/images/HScope-Icon.png" width=300 alt="Icon">
+</p>
 
 # Open-Source GUI for HSPICE Data Analysis & Waveform Visualization
 
