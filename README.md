@@ -67,7 +67,7 @@ HScope/
     ├── _plotTools.py       # Matplotlib waveform plotting utilities
     └── _saveTools.py       # Export handlers (.csv, .mat, .m, .json, .xlsx)
 
-⚙️ Getting Started
+## ⚙️ Getting Started
 
 Follow these steps to set up and run HScope on your local machine:
 
