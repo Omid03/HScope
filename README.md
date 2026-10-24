@@ -109,4 +109,4 @@ If you are interested in collaborating, extending these features, or continuing 
 
 ## 💖 Acknowledgments & Credits
 
-_HSPICE Data Extraction Engine: The HSPICE file extraction module (utils/_extractTools.py) was developed with inspiration and assistance from the open-source HMC-ACE/hspiceParser repository. Specifically, this implementation utilizes the parser standard corresponding to the default output format of HSPICE 2019._
+_HSPICE Data Extraction Engine: The HSPICE file extraction module (`utils/_extractTools.py`) was developed with inspiration and assistance from the open-source HMC-ACE/hspiceParser repository. Specifically, this implementation utilizes the parser standard corresponding to the default output format of HSPICE 2019._
