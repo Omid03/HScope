@@ -71,8 +71,8 @@ HScope/
 
 Follow these steps to set up and run HScope on your local machine:
 
-    Clone the repository:
-    Bash
+Clone the repository:
+```Bash
 
     git clone [https://github.com/Omid03/HScope.git](https://github.com/Omid03/HScope.git)
     cd HScope
@@ -86,7 +86,7 @@ Follow these steps to set up and run HScope on your local machine:
     Bash
 
     python main.py
-
+```
 (Note: The project also supports packaging into a standalone executable installer via tools such as PyInstaller or NSIS.)
 🤝 Roadmap & Contributing (Call for Collaboration)
 
