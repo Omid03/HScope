@@ -19,7 +19,7 @@ Download Links
 * [Key Features](#-key-features)
 * [Project Architecture](#%EF%B8%8F-project-architecture)
 * [Getting Started](#%EF%B8%8F-getting-started)
-* [Roadmap & Contributing (Call for Collaboration)](#%EF%B8%8F-Roadmap-&-Contributing-(Call-for-Collaboration))
+* [Roadmap & Contributing (Call for Collaboration)](#%EF%B8%8F-Roadmap-&-Contributing)
 * [Acknowledgments & Credits](#-acknowledgments--credits)
 
 ---
@@ -88,7 +88,7 @@ Run the application:
 ```
 (Note: The project also supports packaging into a standalone executable installer via tools such as PyInstaller or NSIS.)
 
-## 🤝 Roadmap & Contributing (Call for Collaboration)
+## 🤝 Roadmap & Contributing
 
 HScope is an open-source initiative, and contributions from developers, researchers, and EDA (Electronic Design Automation) enthusiasts are warmly welcomed!
 Future Development Plans & Roadmap
