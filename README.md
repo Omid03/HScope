@@ -48,7 +48,7 @@ Download Links
 ## 🛠️ Project Architecture
 
 The repository is structured into modular QML frontend views and Python backend processing utilities:
-
+```
 HScope/
 ├── main.py                 # Main application entry point
 ├── ui.py                   # Bridge controller connecting QML frontend and Python backend
@@ -66,6 +66,7 @@ HScope/
     ├── _calcTools.py       # Mathematical expression evaluator for custom signals
     ├── _plotTools.py       # Matplotlib waveform plotting utilities
     └── _saveTools.py       # Export handlers (.csv, .mat, .m, .json, .xlsx)
+```
 
 ## ⚙️ Getting Started
 
@@ -108,4 +109,4 @@ If you are interested in collaborating, extending these features, or continuing 
 
 💖 Acknowledgments & Credits
 
-~~HSPICE Data Extraction Engine: The HSPICE file extraction module (utils/_extractTools.py) was developed with inspiration and assistance from the open-source HMC-ACE/hspiceParser repository. Specifically, this implementation utilizes the parser standard corresponding to the default output format of HSPICE 2019.~~
+__HSPICE Data Extraction Engine: The HSPICE file extraction module (utils/_extractTools.py) was developed with inspiration and assistance from the open-source HMC-ACE/hspiceParser repository. Specifically, this implementation utilizes the parser standard corresponding to the default output format of HSPICE 2019.__
